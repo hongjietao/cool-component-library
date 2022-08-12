@@ -15,10 +15,11 @@
     "react": "^18.2.0",
     "rollup": "^2.77.3",
     "rollup-plugin-dts": "^4.2.2",
+    "tslib": "^2.4.0",
     "typescript": "^4.7.4"
   },
   "main": "dist/cjs/index.js",
-  "module": "dis/esm/index.js",
+  "module": "dist/esm/index.js",
   "files": [
     "dist"
   ],
