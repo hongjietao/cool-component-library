@@ -27,5 +27,6 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com/hongjietao"
-  }
+  },
+  "repository": "https://github.com/hongjietao/cool-component-library"
 }
